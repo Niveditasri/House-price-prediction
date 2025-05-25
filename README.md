@@ -52,5 +52,3 @@ The dataset contains various attributes of homes (e.g., number of rooms, area, l
 ## 📄 License
 
 This project is open-source and available under the MIT License.
-
-Let me know if you’d like this in a downloadable .md file or want to include installation instructions for Conda or Docker.
